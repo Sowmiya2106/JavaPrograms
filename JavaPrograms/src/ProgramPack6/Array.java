@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Array {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		/*
 		 * syntax data_type array_name[size]
 		 */
